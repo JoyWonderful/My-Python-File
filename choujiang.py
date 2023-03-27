@@ -92,5 +92,3 @@ myapp = MyApp()
 myapp.master.title("抽奖")
 myapp.mainloop()
 
-#制作:权家乐  想法提供:权家乐
-#版权所有 侵权必究
